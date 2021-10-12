@@ -1,6 +1,6 @@
 # PokemonApp
 
-App with all best github emojis :) !
+App with a list with all best pokémons names :) !
 
 ## Stack
 
