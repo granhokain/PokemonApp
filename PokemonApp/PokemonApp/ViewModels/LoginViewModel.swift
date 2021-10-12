@@ -12,13 +12,8 @@ final class LoginViewModel {
     var showHome: (() -> Void)?
     var showError: ((String, String) -> Void)?
 
-
-
-
-
-
     func login(user: String, password: String) {
-        if user != "test" {
+        if user != "ash" {
             self.showError?("Something wrong!", "Invalid User")
         } else if password != "123456"{
             self.showError?("Something wrong!", "Invalid Password")

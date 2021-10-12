@@ -29,7 +29,7 @@ class LoginViewController: UIViewController {
         bindViewModel()
     }
 
-    //MARK: Functions
+    //MARK: Actions
     @objc func dismissKeyboard() {
         view.endEditing(true)
     }
