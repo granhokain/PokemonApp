@@ -55,7 +55,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="1" green="1" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="1" green="1" blue="0.56470588235294117" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="etE-4j-FeF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="67" id="1il-dN-Rx9"/>
                             <constraint firstItem="pHr-fu-fZ5" firstAttribute="top" secondItem="etE-4j-FeF" secondAttribute="bottom" constant="67" id="5gu-n6-EFK"/>
